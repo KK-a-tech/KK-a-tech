@@ -2,7 +2,7 @@
 
 Software engineer based in Tokyo, Japan. Backend-focused, with full-stack experience spanning server-side and frontend development.
 
-[GitHub](https://github.com/Kento01465) · [Portfolio](https://mogishiken.jp/) · [Zenn](https://zenn.dev/shim_03248) · [Qiita](https://qiita.com/shim_03248)
+[GitHub](https://github.com/Kento01465) · [Portfolio](https://mogishiken.jp/) · [Zenn](https://zenn.dev/shim_03248) · [Qiita](https://qiita.com/shim_03248) · [Speaker Deck](https://speakerdeck.com/shim_03248)
 
 ## About
 
@@ -26,7 +26,8 @@ Software engineer based in Tokyo, Japan. Backend-focused, with full-stack experi
 | Project | What it is | Tech |
 |---|---|---|
 | [PHP8 mock exam site](https://mogishiken.jp/) | Free mock exams for the PHP8 Certified Engineer (basic) exam, with study mode and timed exam mode | PHP (Laravel) |
-| regex-generator | A web tool for generating regular expressions | JavaScript |
+| [regexp-site](https://regexp-site.vercel.app/) | A regular expression reference and learning site | TypeScript (Next.js) |
+| [regex-generator](https://regex-generator-omega.vercel.app/) | A web tool for generating regular expressions | JavaScript |
 
 ## Writing
 
@@ -34,6 +35,7 @@ I write up notes on whatever tech catches my interest and that I've tried out.
 
 - [Zenn](https://zenn.dev/shim_03248)
 - [Qiita](https://qiita.com/shim_03248)
+- [Speaker Deck](https://speakerdeck.com/shim_03248)
 
 ## GitHub Contribution
 
